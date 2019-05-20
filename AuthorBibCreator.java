@@ -3,15 +3,8 @@
 //Question: A tool requires the user to enter an author name, then searches
 //all .bib files for any articles for any author(s) with that name, and crease 3 
 //different files with the correct reference formats with all found records
-//Written by: Jinchen Hu ID#40080398
-/**
-* 
-* Jinchen Hu ID#40080398
-* <p>COMP 249</p>
-* <p>Assignment #3</p>
-* <p>Due 11:59 PM - Sunday, March 17, 2019</p>
-*
-*/
+//Written by: Jinchen Hu 
+
 
 import java.io.File;
 import java.io.FileInputStream;
